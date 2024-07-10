@@ -42,6 +42,6 @@ Então o sistema deve gerar o CPF
     # Capture Page Screenshot
     # Sleep    3
     # Close Browser
-    Log To Console    Verificando teste
+    Log To Console    Verificando
 
 
